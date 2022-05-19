@@ -38,6 +38,7 @@
             <option value="$PROJECT_DIR$/c38_menuinflater" />
             <option value="$PROJECT_DIR$/c40_activityexecution" />
             <option value="$PROJECT_DIR$/c41_extradata" />
+            <option value="$PROJECT_DIR$/minagecalc" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
