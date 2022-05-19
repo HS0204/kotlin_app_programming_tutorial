@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">c13_TextView</string>
+    <string name="contact">
+        깃허브 : https://github.com/HS0204, 전화번호 : 010-0000-0000, 이메일 : lhanseul0204@naver.com
+    </string>
+    <string name="info">
+        안녕하세요. 현재 앱 개발자를 목표로 kotlin과 flutter, dart를 공부하며 취업 준비 중에 있습니다. 다양한 분야에 관심이 많아 이것저것 살펴보며 얇고 넓게 살아가고 있습니다. 반갑습니다~
+    </string>
+</resources>

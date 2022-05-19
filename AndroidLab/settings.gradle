@@ -1,0 +1,34 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "AndroidLab"
+include ':app'
+include ':c11_layout_with_XML'
+include ':c12_basic_property'
+include ':c13_textview'
+include ':c14_imageview'
+include ':c15_button_and_edittext'
+include ':c17_linearlayout'
+include ':c18_relativelayout'
+include ':c19_framelayout'
+include ':c20_gridlayout'
+include ':c21_constraintlayout'
+include ':c23_keyevent'
+include ':c24_touchevent'
+include ':c25_clickevent'
+include ':c27_drawableresource'
+include ':c28_valuesresource'
+include ':c29_resourcesfolderconstraint'
+include ':c31_arrayadapter'
+include ':c32_simpleadapter'
+include ':c33_listview'
+include ':c34_customadapter'
+include ':c35_spinner_autocompletetextview'
+include ':c36_conceptsofactionbar'
+include ':c37_menu'
+include ':c38_menuinflater'

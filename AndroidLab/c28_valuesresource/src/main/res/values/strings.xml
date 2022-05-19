@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">c28_ValuesResource</string>
+    <string name="text_data1">Hello</string>
+    <string name="text_data2">World</string>
+</resources>

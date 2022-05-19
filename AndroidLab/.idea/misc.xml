@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HS/kotlin_app_programming/AndroidLab/app/src/main/res/layout/activity_main.xml" value="0.2828125" />
+        <entry key="..\:/HS/kotlin_app_programming/AndroidLab/c11/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/HS/kotlin_app_programming/AndroidLab/c12_basic_property/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming/AndroidLab/c13_textview/src/main/res/layout/activity_main.xml" value="0.3151041666666667" />
+        <entry key="..\:/HS/kotlin_app_programming/AndroidLab/c14_imageview/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming/AndroidLab/c15_button_and_edittext/src/main/res/layout/activity_main.xml" value="0.30434782608695654" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c15_button_and_edittext/src/main/res/layout/activity_main.xml" value="0.29846014492753625" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c17_linearlayout/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c18_relativelayout/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c19_framelayout/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c20_gridlayout/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c21_constraintlayout/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c23_keyevent/src/main/res/layout/activity_main.xml" value="0.3151041666666667" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c24_touchevent/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c25_clickevent/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c25_clickevent/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3536458333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c27_drawableresource/src/main/res/drawable/my_image.xml" value="0.3536458333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c27_drawableresource/src/main/res/drawable/round_button.xml" value="0.3536458333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c27_drawableresource/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c28_valuesresource/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c29_resourcesfolderconstraint/src/main/res/layout-land/activity_main.xml" value="0.28021015761821366" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c29_resourcesfolderconstraint/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c31_arrayadapter/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c32_simpleadapter/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c33_listview/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c34_customadapter/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c34_customadapter/src/main/res/layout/custom_item.xml" value="0.2" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c35_spinner_autocompletetextview/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c36_conceptsofactionbar/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c38_menuinflater/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/HS/kotlin_app_programming_tutorial/AndroidLab/c38_menuinflater/src/main/res/menu/menu_main.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

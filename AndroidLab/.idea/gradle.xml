@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/.gradle/wrapper/dists/gradle-7.2-bin/2dnblmf4td7x66yl1d74lt32g/gradle-7.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/c11_layout_with_XML" />
+            <option value="$PROJECT_DIR$/c12_basic_property" />
+            <option value="$PROJECT_DIR$/c13_textview" />
+            <option value="$PROJECT_DIR$/c14_imageview" />
+            <option value="$PROJECT_DIR$/c15_button_and_edittext" />
+            <option value="$PROJECT_DIR$/c17_linearlayout" />
+            <option value="$PROJECT_DIR$/c18_relativelayout" />
+            <option value="$PROJECT_DIR$/c19_framelayout" />
+            <option value="$PROJECT_DIR$/c20_gridlayout" />
+            <option value="$PROJECT_DIR$/c21_constraintlayout" />
+            <option value="$PROJECT_DIR$/c23_keyevent" />
+            <option value="$PROJECT_DIR$/c24_touchevent" />
+            <option value="$PROJECT_DIR$/c25_clickevent" />
+            <option value="$PROJECT_DIR$/c27_drawableresource" />
+            <option value="$PROJECT_DIR$/c28_valuesresource" />
+            <option value="$PROJECT_DIR$/c29_resourcesfolderconstraint" />
+            <option value="$PROJECT_DIR$/c31_arrayadapter" />
+            <option value="$PROJECT_DIR$/c32_simpleadapter" />
+            <option value="$PROJECT_DIR$/c33_listview" />
+            <option value="$PROJECT_DIR$/c34_customadapter" />
+            <option value="$PROJECT_DIR$/c35_spinner_autocompletetextview" />
+            <option value="$PROJECT_DIR$/c36_conceptsofactionbar" />
+            <option value="$PROJECT_DIR$/c37_menu" />
+            <option value="$PROJECT_DIR$/c38_menuinflater" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
