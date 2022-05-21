@@ -3,7 +3,6 @@
 >기본 개념과 미니 프로젝트로 진행한 코틀린 활용 AOS 개발 튜토리얼 레포
 
 ## 튜토리얼
----
 ### UI 프로그래밍
  - [part5_1](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c11_layout_with_XML): Activity - View 구조
  - [part5_2](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c12_basic_property): Layout XML을 이용한 화면 구성
@@ -49,5 +48,4 @@
  <br>
 
  ## 미니 프로젝트
- ---
  [분 나이 계산기](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/minagecalc)

@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val button = findViewById<Button>(R.id.button)
-        button.setOnClickListener { 
+        button.setOnClickListener {
             val intent = Intent()
             intent.action = "ACTION_DETAIL"
             intent.data = Uri.parse("http://www.google.com")
