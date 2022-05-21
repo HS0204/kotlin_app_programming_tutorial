@@ -43,6 +43,8 @@
 ### Intent
  - [part11_1](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c40_activityexecution): Acitivity 실행
  - [part11_2](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c41_extradata): Extra Data
+ - [part11_3](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c42_activityresult): Activity Result
+ - [part11_4](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c43_implicitintent): Implicit Intent
 
  <br>
 
