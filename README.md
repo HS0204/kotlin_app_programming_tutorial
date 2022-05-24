@@ -44,6 +44,9 @@
  - [part11_2](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c41_extradata): Extra Data
  - [part11_3](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c42_activityresult): Activity Result
  - [part11_4](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c43_implicitintent): Implicit Intent
+  
+### Activity Lifecycle
+ - [part12_1](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c45_saveinstance): Save Instance
 
  <br>
 
