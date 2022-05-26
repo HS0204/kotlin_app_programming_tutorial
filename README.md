@@ -59,6 +59,11 @@
  ### Alert
  - [part15_1](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c52_vibrationandbeep): Vibration, Beep
  - [part15_2](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c53_toastanddialog): Toast, Dialog
+  
+ ### SharedPreference
+ - [part16_1](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c55_sharedpreference): SharedPreference
+ - [part16_2](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c56_settingsxml): Settings XML
+ - [part16_3](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c57_preferencefragmentcompat): PreferenceFragmentCompat
 
  <br>
 

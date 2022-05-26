@@ -47,6 +47,9 @@
             <option value="$PROJECT_DIR$/c51_permissioncheckandrequest" />
             <option value="$PROJECT_DIR$/c52_vibrationandbeep" />
             <option value="$PROJECT_DIR$/c53_toastanddialog" />
+            <option value="$PROJECT_DIR$/c55_sharedpreference" />
+            <option value="$PROJECT_DIR$/c56_settingsxml" />
+            <option value="$PROJECT_DIR$/c57_preferencefragmentcompat" />
             <option value="$PROJECT_DIR$/minagecalc" />
           </set>
         </option>
