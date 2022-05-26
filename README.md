@@ -48,6 +48,11 @@
 ### Activity Lifecycle
  - [part12_1](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c45_saveinstance): Save Instance
 
+### ANR
+ - [part13_1](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c47_handler): Handler
+ - [part13_2](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c48_asynctask): AsyncTask
+ - [part13_3](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c49_coroutine): Coroutine
+
  <br>
 
  ## 미니 프로젝트

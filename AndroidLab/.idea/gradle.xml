@@ -41,6 +41,9 @@
             <option value="$PROJECT_DIR$/c42_activityresult" />
             <option value="$PROJECT_DIR$/c43_implicitintent" />
             <option value="$PROJECT_DIR$/c45_saveinstance" />
+            <option value="$PROJECT_DIR$/c47_handler" />
+            <option value="$PROJECT_DIR$/c48_asynctask" />
+            <option value="$PROJECT_DIR$/c49_coroutine" />
             <option value="$PROJECT_DIR$/minagecalc" />
           </set>
         </option>
