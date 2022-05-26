@@ -53,6 +53,9 @@
  - [part13_2](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c48_asynctask): AsyncTask
  - [part13_3](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c49_coroutine): Coroutine
 
+ ### Permission
+ - [part14_1](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/c51_permissioncheckandrequest): Permission Check, Request
+
  <br>
 
  ## 미니 프로젝트
