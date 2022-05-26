@@ -45,6 +45,8 @@
             <option value="$PROJECT_DIR$/c48_asynctask" />
             <option value="$PROJECT_DIR$/c49_coroutine" />
             <option value="$PROJECT_DIR$/c51_permissioncheckandrequest" />
+            <option value="$PROJECT_DIR$/c52_vibrationandbeep" />
+            <option value="$PROJECT_DIR$/c53_toastanddialog" />
             <option value="$PROJECT_DIR$/minagecalc" />
           </set>
         </option>
