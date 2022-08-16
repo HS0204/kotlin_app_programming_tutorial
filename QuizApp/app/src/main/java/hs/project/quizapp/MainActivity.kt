@@ -3,6 +3,7 @@ package hs.project.quizapp
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import android.widget.ImageButton
 import android.widget.TextView
 import android.widget.Toast
 import hs.project.quizapp.databinding.ActivityMainBinding
@@ -13,7 +14,8 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var trueBtn: Button
     private lateinit var falseBtn: Button
-    private lateinit var nextBtn: Button
+    private lateinit var prevBtn: ImageButton
+    private lateinit var nextBtn: ImageButton
     private lateinit var questionTxtView: TextView
 
     private val questionBank = listOf(
@@ -32,8 +34,15 @@ class MainActivity : AppCompatActivity() {
 
         trueBtn = binding.trueBtn
         falseBtn = binding.falseBtn
+        prevBtn = binding.prevBtn
         nextBtn = binding.nextBtn
         questionTxtView = binding.questionTxtView
+
+        questionTxtView.setOnClickListener {
+            currentIndex = (currentIndex + 1) % questionBank.size
+
+            updateQuestion()
+        }
 
         trueBtn.setOnClickListener {
             checkAnswer(true)
@@ -41,6 +50,14 @@ class MainActivity : AppCompatActivity() {
 
         falseBtn.setOnClickListener {
             checkAnswer(false)
+        }
+
+        prevBtn.setOnClickListener {
+            currentIndex = (currentIndex - 1) % questionBank.size
+
+            if (currentIndex < 0) currentIndex = questionBank.size - 1
+
+            updateQuestion()
         }
 
         nextBtn.setOnClickListener {
