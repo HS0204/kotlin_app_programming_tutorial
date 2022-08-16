@@ -2,6 +2,11 @@ package hs.project.quizapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+<<<<<<< Updated upstream
+=======
+import android.util.Log
+import android.view.View
+>>>>>>> Stashed changes
 import android.widget.Button
 import android.widget.ImageButton
 import android.widget.TextView
@@ -26,6 +31,10 @@ class MainActivity : AppCompatActivity() {
         Question(R.string.question_americas, true),
         Question(R.string.question_asia, true)
     )
+
+    private var checkAnswer: ArrayList<CheckAnswer> = arrayListOf()
+    private var collectAnswer = 0
+
     private var currentIndex = 0
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -46,10 +55,14 @@ class MainActivity : AppCompatActivity() {
 
         trueBtn.setOnClickListener {
             checkAnswer(true)
+
+            calScore()
         }
 
         falseBtn.setOnClickListener {
             checkAnswer(false)
+
+            calScore()
         }
 
         prevBtn.setOnClickListener {
@@ -72,10 +85,28 @@ class MainActivity : AppCompatActivity() {
     private fun updateQuestion() {
         val questionTxtResId = questionBank[currentIndex].textResId
         questionTxtView.setText(questionTxtResId)
+
+        if (currentIndex >= checkAnswer.size)
+            checkAnswer.add(currentIndex, CheckAnswer(false))
+
+        if (checkAnswer[currentIndex].answer) {
+            trueBtn.visibility = View.INVISIBLE
+            falseBtn.visibility = View.INVISIBLE
+        } else {
+            trueBtn.visibility = View.VISIBLE
+            falseBtn.visibility = View.VISIBLE
+        }
     }
 
     private fun checkAnswer(userAnswer: Boolean) {
         val correctAnswer = questionBank[currentIndex].answer
+
+        if (userAnswer == correctAnswer) {
+            checkAnswer.add(currentIndex, CheckAnswer(true))
+            collectAnswer += 1
+        } else {
+            checkAnswer.add(currentIndex, CheckAnswer(false))
+        }
 
         val messageResId = if (userAnswer == correctAnswer) {
             R.string.correct_toast
@@ -85,4 +116,18 @@ class MainActivity : AppCompatActivity() {
 
         Toast.makeText(this, messageResId, Toast.LENGTH_SHORT).show()
     }
+<<<<<<< Updated upstream
+=======
+
+    private fun calScore() {
+        if (currentIndex == questionBank.size - 1) {
+            val score = (collectAnswer.toDouble() / questionBank.size.toDouble()) * 100
+            Toast.makeText(this, "점수 백분율 환산 : ${score.toInt()}%", Toast.LENGTH_SHORT).show()
+        }
+    }
+
+    companion object {
+        private const val TAG = "MainActivity"
+    }
+>>>>>>> Stashed changes
 }
