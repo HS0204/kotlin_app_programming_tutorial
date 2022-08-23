@@ -73,8 +73,10 @@
  <br>
 
  ## 미니 프로젝트
- [분 나이 계산기](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/minagecalc)
- [퀴즈 앱](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/QuizApp)
- 
+ - [분 나이 계산기](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/minagecalc)
+ - [퀴즈 앱](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/QuizApp)
+
+ <br>
+
  ## 추가 공부
  [ViewModel & LiveData](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/QuizApp/viewmodelandlivadata)
