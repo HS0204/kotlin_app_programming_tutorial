@@ -79,4 +79,5 @@
  <br>
 
  ## 추가 공부
- [ViewModel & LiveData](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/QuizApp/viewmodelandlivadata)
+ - [ViewModel & LiveData](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/QuizApp/viewmodelandlivadata)
+ - [Room](https://github.com/HS0204/kotlin_app_programming_tutorial/RoomPractice/app)
