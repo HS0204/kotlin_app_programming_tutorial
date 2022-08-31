@@ -29,7 +29,7 @@ class AddFragment : Fragment() {
         _binding = FragmentAddBinding.inflate(inflater, container, false)
         val view = binding
 
-        mUserViewModler = ViewModelProvider(this).get(UserViewModel::class.java)
+        mUserViewModler = ViewModelProvider(this)[UserViewModel::class.java]
 
         view.addBtn.setOnClickListener {
             insertDataToDatabase()

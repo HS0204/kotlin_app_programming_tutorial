@@ -11,13 +11,13 @@ import kotlinx.coroutines.launch
 class UserViewModel(application: Application): AndroidViewModel(application) {
     // repository와 UI를 연결시키는 커뮤니케이션 센터와 같은 역할을 하게된다.
 
-    private val readAllDate: LiveData<List<User>>
+    val readAllData: LiveData<List<User>>
     private val repository: UserRepository
 
     init {
         val userDao = UserDatabase.getDatabase(application).userDao()
         repository = UserRepository(userDao)
-        readAllDate = repository.realAllData
+        readAllData = repository.realAllData
     }
 
     fun addUser(user: User) {
