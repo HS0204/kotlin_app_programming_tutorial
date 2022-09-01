@@ -76,10 +76,11 @@
  - [분 나이 계산기](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/AndroidLab/minagecalc)
  - [퀴즈 앱](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/QuizApp)
  - [팁 계산기](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/TipCalculator/app)
-   - Themes, Launcher Icon, Material Component
+   - Themes, Launcher Icon, Material Component, Instrumentation Test
 
  <br>
 
  ## 추가 공부
  - [ViewModel & LiveData](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/QuizApp/viewmodelandlivadata)
  - [Room](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/RoomPractice/app)
+ - [Room & ViewModel & LiveData](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/RoomPractice/roomwitharchitecture)

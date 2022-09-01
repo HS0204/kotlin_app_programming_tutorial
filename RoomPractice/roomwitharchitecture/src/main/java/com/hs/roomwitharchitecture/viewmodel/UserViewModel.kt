@@ -1,9 +1,12 @@
-package com.hs.roomwitharchitecture.data
+package com.hs.roomwitharchitecture.viewmodel
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.viewModelScope
+import com.hs.roomwitharchitecture.data.UserDatabase
+import com.hs.roomwitharchitecture.repository.UserRepository
+import com.hs.roomwitharchitecture.model.User
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
@@ -26,6 +29,12 @@ class UserViewModel(application: Application): AndroidViewModel(application) {
             // Dispatcher.IO는 이 코드는 백그라운드 스레드에서 돌리겠다는 뜻이다.
             // 메인스레드에서 데이터베이스 작업을 하면 매우 나쁜 환경이다!
             repository.addUser(user)
+        }
+    }
+
+    fun updateUser(user: User) {
+        viewModelScope.launch(Dispatchers.IO) {
+            repository.updateUpdate(user)
         }
     }
 }
