@@ -18,6 +18,20 @@
             app:destination="@id/updateFragment" />
     </fragment>
     <fragment
+        android:id="@+id/categoryFragment"
+        android:name="com.hs.roomwitharchitecture.fragment.category.CategoryFragment"
+        android:label="Category"
+        tools:layout="@layout/fragment_category">
+    </fragment>
+    <fragment
+        android:id="@+id/savedFragment"
+        android:name="com.hs.roomwitharchitecture.fragment.saved.SavedFragment"
+        android:label="Saved"
+        tools:layout="@layout/fragment_saved">
+    </fragment>
+
+
+    <fragment
         android:id="@+id/addFragment"
         android:name="com.hs.roomwitharchitecture.fragment.add.AddFragment"
         android:label="Add"

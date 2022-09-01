@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--NavGraph 연결 시킬 Fragment와 같은 아이디여야 한다!-->
+    <item
+        android:id="@+id/listFragment"
+        android:title="List"
+        android:icon="@drawable/ic_baseline_list_24" />
+    <item
+        android:id="@+id/categoryFragment"
+        android:title="Category"
+        android:icon="@drawable/ic_baseline_category_24"/>
+    <item
+        android:id="@+id/savedFragment"
+        android:title="Saved"
+        android:icon="@drawable/ic_baseline_save_alt_24"/>
+</menu>
