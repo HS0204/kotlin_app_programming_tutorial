@@ -79,6 +79,7 @@
    - Themes, Launcher Icon, Material Component, Instrumentation Test
  - [단어 맞추기 앱](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/android-basics-kotlin-unscramble-app-starter/app)
    - ViewModel, LiveData, DataBinding
+ - [컵케이크 주문 앱](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/android-basics-kotlin-cupcake-app-starter/app)
 
  <br>
 
