@@ -77,6 +77,8 @@
  - [퀴즈 앱](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/QuizApp)
  - [팁 계산기](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/TipCalculator/app)
    - Themes, Launcher Icon, Material Component, Instrumentation Test
+ - [단어 맞추기 앱](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/android-basics-kotlin-unscramble-app-starter/app)
+   - ViewModel, LiveData, DataBinding
 
  <br>
 
