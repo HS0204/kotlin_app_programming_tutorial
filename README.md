@@ -83,7 +83,8 @@
    - ViewModel, LiveData, DataBinding
  - [화성 사진 앱](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/android-basics-kotlin-mars-photos-app-starter/app)
    - Coroutine, Retrofit, BindingAdapter, ViewModel, LiveData, DataBinding
-
+ - [양서류 사전 앱](https://github.com/HS0204/kotlin_app_programming_tutorial/tree/main/android-basics-kotlin-amphibians-app-main/app)
+   - 화성 사진 앱과 비슷한 앱 스스로 구현, detail list로 정보 넘기기
  <br>
 
  ## 추가 공부
