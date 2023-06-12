@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main1Fragment"
+        android:title="메인1"/>
+
+    <item
+        android:id="@+id/main2Fragment"
+        android:title="메인2"/>
+
+    <item
+        android:id="@+id/main3Fragment"
+        android:title="메인3"/>
+
+    <item
+        android:id="@+id/main4Fragment"
+        android:title="메인4"/>
+</menu>
